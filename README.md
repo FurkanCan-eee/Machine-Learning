@@ -1,2 +1,2 @@
 # Machine-Learning
-There will be my projects about machine learning in here
+Here I will have projects, and codes related to machine learning
